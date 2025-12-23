@@ -1,0 +1,23 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "password.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node password.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishtiaqa1/password-manager-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishtiaqa1/password-manager-cli/issues"
+  },
+  "homepage": "https://github.com/ishtiaqa1/password-manager-cli#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
